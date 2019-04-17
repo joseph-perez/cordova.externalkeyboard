@@ -1,5 +1,5 @@
 {
-  "name": "cordova.externalkeyboard",
+  "name": "com.atuhi.externalkeyboard",
   "version": "1.0.0",
   "description": "This project is part of [Atuhi](http://atuhi.com)",
   "main": "index.js",
